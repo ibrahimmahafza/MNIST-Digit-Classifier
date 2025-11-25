@@ -16,5 +16,5 @@ The model was trained for 25 epochs and achieved the following performances:
 -  **TensorFlow / Keras**: For building and training the neural network.
 -  **NumPy**: For numerical operations and data manipulation.
 -  **Matplotlib**: For plotting the training history and sample images.
-- ** Pillow (PIL)**: For loading and processing custom test images.
+- **Pillow (PIL)**: For loading and processing custom test images.
 - **Google Colab**: For cloud-based model development and training.
