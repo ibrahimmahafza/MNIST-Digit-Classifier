@@ -3,7 +3,7 @@ A CNN (Convolutional Neural Network) built with TensorFlow/Keras to classify the
 This project demonstrates data preprocessing, model building, training, and evaluation, achieving over 99% accuracy on the test set.
 
 # 🚀 How to run
-The easiest way to run this project is directly in Google Colab.
+The easiest way to run this project is directly in Google Colab. (Make sure to upload the .pngs in the nums folder on Colab so you can test the model with the sample images given)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ibrahimmahafza/MNIST-Digit-Classifier/blob/main/handwritingrecognition.ipynb)
 
 # 📈 Results
