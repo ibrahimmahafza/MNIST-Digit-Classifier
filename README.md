@@ -4,7 +4,7 @@ This project demonstrates data preprocessing, model building, training, and eval
 
 # 🚀 How to run
 The easiest way to run this project is directly in Google Colab.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imahaa/MNIST-Digit-Classifier/blob/main/handwritingrecognition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ibrahimmahafza/MNIST-Digit-Classifier/blob/main/handwritingrecognition.ipynb)
 
 # 📈 Results
 The model was trained for 25 epochs and achieved the following performances:
